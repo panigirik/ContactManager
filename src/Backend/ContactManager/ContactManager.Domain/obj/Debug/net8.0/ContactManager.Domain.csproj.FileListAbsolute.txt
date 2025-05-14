@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\bin\Debug\net8.0\ContactManager.Domain.deps.json
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\bin\Debug\net8.0\ContactManager.Domain.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\bin\Debug\net8.0\ContactManager.Domain.pdb
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\refint\ContactManager.Domain.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.pdb
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Domain\obj\Debug\net8.0\ref\ContactManager.Domain.dll

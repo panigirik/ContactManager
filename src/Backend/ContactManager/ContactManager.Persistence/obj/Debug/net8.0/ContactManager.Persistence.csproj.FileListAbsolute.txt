@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\bin\Debug\net8.0\ContactManager.Persistence.deps.json
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\bin\Debug\net8.0\ContactManager.Persistence.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\bin\Debug\net8.0\ContactManager.Persistence.pdb
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\bin\Debug\net8.0\ContactManager.Domain.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\bin\Debug\net8.0\ContactManager.Domain.pdb
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactM.ED4D9719.Up2Date
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\refint\ContactManager.Persistence.dll
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ContactManager.Persistence.pdb
+C:\Users\Admin\RiderProjects\ContactManager\ContactManager.Persistence\obj\Debug\net8.0\ref\ContactManager.Persistence.dll
