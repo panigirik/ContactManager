@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ContactManager.Persistence.Data;
 
-
 public class ContactManagerDbContext : DbContext
 {
     public ContactManagerDbContext(DbContextOptions<ContactManagerDbContext> options)

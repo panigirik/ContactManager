@@ -15,4 +15,10 @@
       <ProjectReference Include="..\ContactManager.Domain\ContactManager.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="ExHandler">
+        <HintPath>..\..\ExHandler\ExHandler\bin\Debug\net8.0\ExHandler.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

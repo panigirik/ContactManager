@@ -1,7 +1,5 @@
 ﻿using ContactManager.Application.DTOs;
 using ContactManager.Application.Interfaces;
-using ContactManager.Domain.Entities;
-using ContactManager.Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ContactManager.Contacts;
@@ -11,12 +9,9 @@ namespace ContactManager.Contacts;
 public class ContactController : ControllerBase
 {
     private readonly IContactService _contactService;
-    private readonly IContactRepository _contactRepository;
-
-    public ContactController(IContactService contactService, IContactRepository contactRepository)
+    public ContactController(IContactService contactService)
     {
         _contactService = contactService;
-        _contactRepository = contactRepository;
     }
 
     /// <summary>
@@ -58,8 +53,7 @@ public class ContactController : ControllerBase
         var contact = await _contactService.GetContactByNumber(number);
         return Ok(contact);
     }
-
-
+    
     /// <summary>
     /// Обновить контакт.
     /// </summary>
@@ -70,8 +64,7 @@ public class ContactController : ControllerBase
         return NoContent();
     }
 
-
-
+    
     /// <summary>
     /// Удалить контакт.
     /// </summary>
